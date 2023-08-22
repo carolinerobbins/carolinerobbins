@@ -5,7 +5,7 @@
 - ✈️ I’m currently working on TravelSwipe   
   
 
-- 🌱 I’m currently learning TypeScript and Python  
+- 🌱 I’m currently learning Python and Kotlin  
   
 
 - 🤿 Fun fact: I love scuba diving! I learned on my honeymoon in Fiji, and my last dive was in the Great Barrier Reef! 
